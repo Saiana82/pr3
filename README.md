@@ -62,11 +62,25 @@ Tree Map with the top causes of wildfires shows us that the biggest cause of wil
 
 <img src="https://i.pinimg.com/564x/3a/9e/22/3a9e22fde630dc6bf282908f087f71c6.jpg" width=600 align=center> <br> 
 
+## Folium Map for Fire Duration
+Plotted folium map shows the states with highestduration of wildfire: bigger the circle. longer the duration. Each marker provides information such as Incident name, duration, state and county.
+
+<img src="https://i.pinimg.com/564x/21/2b/d6/212bd628148bf44c8bc100b7a06cfff7.jpg" width=600 align=center> <br> 
+
 ## Deployment
 
-A home HTML file that links to a charts HTML and data HTML files, were created to display the data and its findings in the HTML format on the web.
-CSS/Bootstrap are used to style the webpages.
+CSS, Bootstrap and javascript are used to style the webpages. Elevator.js are used for scrolling purpose of the app.
 A flask app.py file was created as a micro web framework to deploy the web application hosted by Heroku as well as on GitHub.
+
+<img src="https://i.pinimg.com/564x/ac/49/9c/ac499c90d889075ed6454da57722358e.jpg" width=600 align=center> <br> 
+
+
+
+<img src="https://i.pinimg.com/564x/62/f4/0e/62f40e70ff1f253f414b11550d1d673f.jpg" width=600 align=center> <br> 
+
+
+
+<img src="https://i.pinimg.com/564x/b6/31/d7/b631d78415d13e65f7c703a8270cc49a.jpg" width=600 align=center> <br> 
 
 ## Contributors
 
