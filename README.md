@@ -76,8 +76,7 @@ A flask app.py file was created as a micro web framework to deploy the web appli
 
 
 
-<img src="https://i.pinimg.com/564x/62/f4/0e/62f40e70ff1f253f414b11550d1d673f.jpg" width=600 align=center> <br> 
-
+<img src="https://i.pinimg.com/564x/f9/af/f6/f9aff653432b7c48e533cda621b7ba04.jpg" width=600 align=center> <br> 
 
 
 <img src="https://i.pinimg.com/564x/b6/31/d7/b631d78415d13e65f7c703a8270cc49a.jpg" width=600 align=center> <br> 
