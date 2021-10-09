@@ -17,7 +17,7 @@ Our team was interested in exploring wildfire data. We extracted wildfire data a
 
 
 ## Architectural Diagram 	
-<img src="https://i.pinimg.com/564x/f8/3e/a0/f83ea0cb3e44c82cf020dd4803eb979b.jpg" width=800 align=center> <br>
+<img src="https://i.pinimg.com/564x/06/4f/e6/064fe6abe75865c6065de4d4c3e1df4e.jpg" width=800 align=center> <br>
 
 ## ETL Process 	
 
